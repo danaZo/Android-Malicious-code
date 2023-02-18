@@ -1,0 +1,20 @@
+Current username: root
+SDK version: 33
+OS Name: Linux
+OS Version: 5.15.41-android13-8-00055-g4f5025129fe8-ab8949913
+OS Arch: x86_64
+Device Brand: google
+Device Make and Model: Google sdk_gphone64_x86_64
+Language: English
+Country: United States
+API level: 33
+Battery level: 1.0
+Timezone: Greenwich Mean Time
+Memory info: Memory: 983MB available, 1965MB total.
+
+IP address: 10.0.2.15
+IP address: 10.0.2.16
+MAC address: 02:00:00:00:00:00
+MAC address: 02:00:00:00:00:00
+MAC address: 02:00:00:00:00:00
+Screen resolution: 1080x2009
